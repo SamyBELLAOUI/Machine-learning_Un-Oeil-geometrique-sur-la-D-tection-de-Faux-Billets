@@ -1,1 +1,1 @@
-# Machine-learning_Un-Oeil-geometrique-sur-la-D-tection-de-Faux-Billets
+# Machine learning / Un Oeil géométrique sur la Détection de Faux Billets
